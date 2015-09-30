@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "ai-pack:printtext"
+    "atom-workspace": "ai-pack:convertToTex"
   },
   "repository": "https://github.com/atom/ai-pack",
   "license": "MIT",
