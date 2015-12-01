@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": ["ai-pack:convertToTex", "ai-pack:addSection", "ai-pack:addTable", "ai-pack:convertUnorderedList"]
+    "atom-workspace": ["ai-pack:convertListToTex", "ai-pack:addSection", "ai-pack:addTable"]
   },
   "repository": "https://github.com/atom/ai-pack",
   "license": "MIT",
