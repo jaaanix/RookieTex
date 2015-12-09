@@ -17,7 +17,9 @@
       "ai-pack:addImage",
       "ai-pack:makeItalic",
       "ai-pack:makeBold",
-      "ai-pack:makeUnderlined"
+      "ai-pack:makeUnderlined",
+      "ai-pack:addMathInlineMode",
+      "ai-pack:addMathDisplayMode"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
