@@ -38,5 +38,5 @@
     'prefix': 'texmathdisplay'
     'body': '$$ ${1:expression} $$'
   'TeX Package':
-    'prefix': 'taxpaying'
-    'body': '\\\\usepackage{${1:package name}}
+    'prefix': 'texpack'
+    'body': '\\\\usepackage{${1:package name}}'
