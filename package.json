@@ -19,7 +19,8 @@
       "ai-pack:makeBold",
       "ai-pack:makeUnderlined",
       "ai-pack:addMathInlineMode",
-      "ai-pack:addMathDisplayMode"
+      "ai-pack:addMathDisplayMode",
+      "ai-pack:addPackage"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
