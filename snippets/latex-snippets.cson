@@ -1,5 +1,5 @@
 # LaTeX Snippets for PlainText (Backslashes have to be escaped with 4 Backslashes)
-'.text.plain':
+'.text.plain, .text.latex':
   'TeX Table':
     'prefix': 'textable'
     'body': """
@@ -40,3 +40,6 @@
   'TeX Package':
     'prefix': 'texpack'
     'body': '\\\\usepackage{${1:package name}}'
+  'TeX New Page':
+    'prefix': 'texnewpage'
+    'body': '\\\\newpage'
