@@ -22,7 +22,8 @@
       "ai-pack:addMathDisplayMode",
       "ai-pack:addPackage",
       "ai-pack:addNewPage",
-      "ai-pack:addGlossaryEntry"
+      "ai-pack:addGlossaryEntry",
+      "ai-pack:initializeTexProject"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
