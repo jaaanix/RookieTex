@@ -43,3 +43,6 @@
   'TeX New Page':
     'prefix': 'texnewpage'
     'body': '\\\\newpage'
+  'TeX Glossary Entry':
+    'prefix': 'texglossaryentry'
+    'body': '\\\\newglossaryentry{${1:label}}'
