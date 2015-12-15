@@ -3,11 +3,9 @@
   "main": "./lib/ai-pack",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace":
-    [
+    "atom-workspace": [
       "ai-pack:convertListToTex",
       "ai-pack:addSection",
       "ai-pack:addTable",
@@ -31,6 +29,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
