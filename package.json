@@ -21,7 +21,8 @@
       "ai-pack:addPackage",
       "ai-pack:addNewPage",
       "ai-pack:addGlossaryEntry",
-      "ai-pack:initializeTexProject"
+      "ai-pack:initializeTexProject",
+      "ai-pack:initializeGlossary"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
@@ -29,5 +30,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
 }
