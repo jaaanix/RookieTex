@@ -19,6 +19,9 @@
         \\\\${2:item}
       \\\\end{itemize}
     """
+  'TeX Chapter':
+    'prefix': 'texchapter'
+    'body': '\\\\chapter{${1:name}}'
   'TeX Section':
     'prefix': 'texsec'
     'body': '\\\\section{${1:name}}'
@@ -46,3 +49,6 @@
   'TeX Glossary Entry':
     'prefix': 'texglossaryentry'
     'body': '\\\\newglossaryentry{${1:label}}'
+  'TeX Double Quotes':
+    'prefix': 'texdoublequotes'
+    'body': '\"`${1:text}\"\''

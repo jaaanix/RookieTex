@@ -22,7 +22,9 @@
       "ai-pack:addNewPage",
       "ai-pack:addGlossaryEntry",
       "ai-pack:initializeTexProject",
-      "ai-pack:initializeGlossary"
+      "ai-pack:initializeGlossary",
+      "ai-pack:addDoubleQuotes",
+      "ai-pack:addChapter"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
