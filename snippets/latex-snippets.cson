@@ -20,7 +20,7 @@
       \\\\end{itemize}
     """
   'TeX Chapter':
-    'prefix': 'texchapter'
+    'prefix': 'texch'
     'body': '\\\\chapter{${1:name}}'
   'TeX Section':
     'prefix': 'texsec'
