@@ -25,7 +25,9 @@ RookieTex, makes the way you write LaTeX in Atom easier.
 Usage informations:
 -------------------
 
--	To make words bold, italic or underlined, just place your text cursor anywhere in the word and call the specific command from the atom command palette.
--	To insert sections, subsections, tables, images etc. use the **add** commands from the atom command palette.
+- To **build your latex project** run command *pdflatex main.tex* in your latex project root directory.
+- To build/make the **glossary** you have to run the command *makeglossaries main* in the root directory of your latex project. After that you have to recompile your project (twice) with command *pdflatex main.tex*.
+-	To make words **bold**, **italic** or **underlined**, just place your text cursor anywhere in the word and call the specific command from the atom command palette.
+-	To insert **sections**, **subsections**, **tables**, **images** etc. use the commands starting with **add**, from the atom command palette.
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
