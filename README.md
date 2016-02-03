@@ -30,4 +30,4 @@ Usage informations:
 -	To make words **bold**, **italic** or **underlined**, just selected the text you want to modify and call the specific command from the atom command palette.
 -	To insert **sections**, **subsections**, **tables**, **images** etc. use the commands starting with **add**, from the atom command palette.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](http://www.reactiongifs.com/r/ktpng.gif)
