@@ -32,7 +32,9 @@
       "ai-pack:addBegin",
       "ai-pack:addOrderedList",
       "ai-pack:addBackslash",
-      "ai-pack:addCodeSnippet"
+      "ai-pack:addCodeSnippet",
+      "ai-pack:addFigure",
+      "ai-pack:addMinipage"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",

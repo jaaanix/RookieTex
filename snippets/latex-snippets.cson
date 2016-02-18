@@ -78,3 +78,17 @@
     % Easy add code have to be acitvated on project creation
     \\\\insertcode{${1:relativeCodeFilePath}}{${2:description}}
     """
+  'TeX Figure':
+    'prefix': 'texfig'
+    'body': """
+        \\\\begin{figure}[${1:position(b,h,p,t)}]
+
+        \\\\end{figure}
+        """
+  'TeX Minipage':
+    'prefix': 'texminipage'
+    'body': """
+        \\\\begin{minipage}[${1:position(t,b)}]
+
+        \\\\end{minipage}
+        """
