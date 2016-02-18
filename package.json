@@ -8,6 +8,7 @@
     "atom-workspace": [
       "ai-pack:convertListToTex",
       "ai-pack:addSection",
+      "ai-pack:addSubSection",
       "ai-pack:addTable",
       "ai-pack:addUnorderedList",
       "ai-pack:addToc",
@@ -24,7 +25,8 @@
       "ai-pack:initializeTexProject",
       "ai-pack:initializeGlossary",
       "ai-pack:addDoubleQuotes",
-      "ai-pack:addChapter"
+      "ai-pack:addChapter",
+      "ai-pack:addUrlLink"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
