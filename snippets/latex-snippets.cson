@@ -48,7 +48,7 @@
     'body': '\\\\newpage'
   'TeX Glossary Entry':
     'prefix': 'texglossaryentry'
-    'body': '\\\\newglossaryentry{${1:label}}'
+    'body': '\\\\newglossaryentry{${1:label}}{name={${2:name}}, description={${3:description}}'
   'TeX Double Quotes':
     'prefix': 'texdoublequotes'
     'body': '\"`${1:text}\"\''
