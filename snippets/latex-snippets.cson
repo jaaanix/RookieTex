@@ -72,3 +72,9 @@
   'TeX Backslash':
     'prefix': 'texbackslash'
     'body': '\\\\textbackslash{}'
+  'TeX Insert Code':
+    'prefix': 'texinscode'
+    'body': """
+    % Easy add code have to be acitvated on project creation
+    \\\\insertcode{${1:relativeCodeFilePath}}{${2:description}}
+    """
