@@ -52,3 +52,6 @@
   'TeX Double Quotes':
     'prefix': 'texdoublequotes'
     'body': '\"`${1:text}\"\''
+  'TeX URL Link':
+    'prefix': 'texurllink'
+    'body': '\\\\href{${1:url}}{${2:description}}'
