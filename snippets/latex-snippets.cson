@@ -15,8 +15,8 @@
     'prefix': 'texlist'
     'body': """
       \\\\begin{itemize}
-        \\\\${1:item}
-        \\\\${2:item}
+         \\\\item ${1:}
+         \\\\item ${2:}
       \\\\end{itemize}
     """
   'TeX Chapter':
@@ -60,4 +60,12 @@
     'body': """
         \\\\begin{${1:command}}
         \\\\end{${1:command}}
+    """
+  'TeX Ordered List':
+    'prefix': 'texolist'
+    'body': """
+        \\\\begin{enumerate}
+            \\\\item ${1:}
+            \\\\item ${2:}
+        \\\\end{enumerate}
     """

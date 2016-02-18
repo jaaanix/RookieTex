@@ -27,7 +27,8 @@
       "ai-pack:addDoubleQuotes",
       "ai-pack:addChapter",
       "ai-pack:addUrlLink",
-      "ai-pack:addBegin"
+      "ai-pack:addBegin",
+      "ai-pack:addOrderedList"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
