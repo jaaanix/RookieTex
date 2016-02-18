@@ -55,3 +55,9 @@
   'TeX URL Link':
     'prefix': 'texurllink'
     'body': '\\\\href{${1:url}}{${2:description}}'
+  'TeX Begin Command':
+    'prefix': 'texbegin'
+    'body': """
+        \\\\begin{${1:command}}
+        \\\\end{${1:command}}
+    """

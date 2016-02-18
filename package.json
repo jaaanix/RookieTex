@@ -26,7 +26,8 @@
       "ai-pack:initializeGlossary",
       "ai-pack:addDoubleQuotes",
       "ai-pack:addChapter",
-      "ai-pack:addUrlLink"
+      "ai-pack:addUrlLink",
+      "ai-pack:addBegin"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
