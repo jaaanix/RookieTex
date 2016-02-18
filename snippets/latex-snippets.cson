@@ -69,3 +69,6 @@
             \\\\item ${2:}
         \\\\end{enumerate}
     """
+  'TeX Backslash':
+    'prefix': 'texbackslash'
+    'body': '\\\\textbackslash{}'

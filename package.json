@@ -28,7 +28,8 @@
       "ai-pack:addChapter",
       "ai-pack:addUrlLink",
       "ai-pack:addBegin",
-      "ai-pack:addOrderedList"
+      "ai-pack:addOrderedList",
+      "ai-pack:addBackslash"
     ]
   },
   "repository": "https://github.com/atom/ai-pack",
